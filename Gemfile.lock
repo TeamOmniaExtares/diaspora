@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:TeamOmniaExtares/omniauth-wordpress.git
+  remote: https://github.com/TeamOmniaExtares/omniauth-wordpress.git
   revision: fa9971c62202a926644153117496d6eb2295bd90
   specs:
     omniauth-wordpress (0.2.1)

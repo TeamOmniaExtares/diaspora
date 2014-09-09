@@ -114,7 +114,7 @@ gem 'omniauth-facebook', '2.0.0'
 gem 'omniauth-tumblr',   '1.1'
 gem 'omniauth-twitter',  '1.0.1'
 gem 'twitter',           '4.8.1'
-gem 'omniauth-wordpress', git: "git@github.com:TeamOmniaExtares/omniauth-wordpress.git"
+gem 'omniauth-wordpress', git: "https://github.com/TeamOmniaExtares/omniauth-wordpress.git"
 
 # Tags
 
